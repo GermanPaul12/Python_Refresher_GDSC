@@ -13,4 +13,8 @@ We will cover the following topics:
 8. Quiz (Check for Palindrome, Valid Triangle, Fibonacci recursively, Binary Search) **45min**
 9. Data Analysis (Pandas, Matplotlib and Seaborn) **45min**
 
+Python version: 3.11.6 \
+Requirements: requirements.txt \
+Created by: German Paul
+
 We wish you success for the exam!
