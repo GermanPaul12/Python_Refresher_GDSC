@@ -10,8 +10,8 @@ We will cover the following topics:
 5. Functions [Notebook](Intro_and_Basics.ipynb) **5min**
 6. Files I/O [Notebook](Intro_and_Basics.ipynb) **5min**
 7. Classes [Notebook](Intro_and_Basics.ipynb) **5min**
-8. Quiz (Check for Palindrome, Valid Triangle, Fibonacci recursively, Binary Search) **45min**
-9. Data Analysis (Pandas, Matplotlib and Seaborn) **45min**
+8. Exercises [Notebook](Exercises.ipynb)  **45min**
+9. Data Analysis [Notebook](Data_Analysis_Exercises.ipynb) **45min**
 
 Python version: 3.11.6 \
 Requirements: requirements.txt \
